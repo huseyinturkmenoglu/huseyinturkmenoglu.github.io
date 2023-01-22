@@ -18,9 +18,9 @@ export default function Home() {
         <div className={styles.description}>
           <p>
             Hi there 🖐,
-            I'm Hüseyin Türkmenoğlu.
+            I{"'"}m Hüseyin Türkmenoğlu.
             <br />
-            I'm a Frontend Developer.
+            I{"'"}m a Frontend Developer.
           </p>
           <div>
             <a
